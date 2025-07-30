@@ -8,4 +8,4 @@ To run the App, execute the command:
 
 java -jar pamsapp.jar
 
-Note: Requires Java version 24 or higher.
+Note: Requires Java version 21 or higher.
